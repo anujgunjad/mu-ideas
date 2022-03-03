@@ -7,7 +7,7 @@
    <div class="carousel-item active">
       <img src="img/OS2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h1 style="color: #ffff !important">Events</h1>
+        <h1 style="color: #000 !important">Events</h1>
        
       </div>
     </div>
@@ -32,7 +32,7 @@
             <div class="col-lg-7">
                 <h1 class="mb-4" style="font-size:25px;">Innovation Commercialization <br/>Cohort 2022 (ICC 2022)</h1>
                 <p style="text-align:justify;">MU Ideas ICC 2022 is a 12-month Incubation Program where innovators get technical and business mentoring from industry and academic experts to commercialize their innovation by forming their own startup company.</p>
-                <a href="https://forms.gle/dS8o7NNY4MxsTfvx5" class="btn btn-primary px-4">Startup Application Form</a>
+                <a href="https://forms.gle/dS8o7NNY4MxsTfvx5" class="btn btn-primary px-4">Apply Now</a>
               </div>
         </div>
     </div>
@@ -50,9 +50,9 @@
         <div class="faq-list">
           <ul>
            <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">What are the eligibility criteria?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-1" class="collapsed">What are the eligibility criteria?
 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-3" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-1" class="collapse" data-parent=".faq-list">
                 <p>
                 There are two important criteria’s<br/>
                 1.   	The innovation is patented or can be protected by IPR.<br/>
@@ -102,10 +102,10 @@ MU Ideas website.
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">What kind of support will be available to applicants?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-6" class="collapsed">What kind of support will be available to applicants?
 club of MU Ideas?
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-6" class="collapse" data-parent=".faq-list">
                 <p> The selected applicants will get<br/>
               ·   	Business and Technical Mentoring from Industry and Academia<br/>
               ·   	Access to State of art labs and co-working space<br/>
@@ -118,10 +118,10 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">I have applied for a patent but it is not yet granted. Can I apply?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-7" class="collapsed">I have applied for a patent but it is not yet granted. Can I apply?
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-7" class="collapse" data-parent=".faq-list">
                 <p>
                 Yes, You Can.
 
@@ -131,10 +131,10 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">I have received the patent however I have not yet explored its use in market. Can I apply?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-8" class="collapsed">I have received the patent however I have not yet explored its use in market. Can I apply?
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-8" class="collapse" data-parent=".faq-list">
                 <p>
                 Yes. The program would help you to understand how to take your innovation from lab to market.
                 </p>
@@ -142,11 +142,11 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">I have an innovation Ideas which is not yet patented but I am confident would get a patent. Can I apply?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-9" class="collapsed">I have an innovation Ideas which is not yet patented but I am confident would get a patent. Can I apply?
 
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-9" class="collapse" data-parent=".faq-list">
                 <p>
                 Yes, you can. Participants in this cohort will get training on IPR and workshops on how to draft and file patent.
 
@@ -156,10 +156,10 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">What is the objective and expected outcome of this cohort?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-10" class="collapsed">What is the objective and expected outcome of this cohort?
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-10" class="collapse" data-parent=".faq-list">
                 <p>
                 The objective is to commercialize explore market value of innovative ideas, patents and handhold the innovators towards their entrepreneurship journey via Startup company.
 
@@ -168,11 +168,11 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">I do not have a Startup company as of now? Do I have to form a startup company if my application is selected?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-11" class="collapsed">I do not have a Startup company as of now? Do I have to form a startup company if my application is selected?
 
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-11" class="collapse" data-parent=".faq-list">
                 <p>
                 During the course of the program, you would be guided by financial and legal experts on incorporating a Startup Company. Since the objective of the program is essentially to commercialize the innovation, it is critical for all applicants to form a startup company.
                 </p>
@@ -180,10 +180,10 @@ club of MU Ideas?
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">My query is not listed above. How can I reach out for more details?
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-12" class="collapsed">My query is not listed above. How can I reach out for more details?
 
  <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+              <div id="faq-list-12" class="collapse" data-parent=".faq-list">
                 <p>
                 Please drop a mail to incubation@mu.ac.in. We will revery by 24 hours and update it here if found relevant.
 

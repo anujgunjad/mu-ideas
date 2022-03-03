@@ -6953,11 +6953,12 @@ a.close.disabled {
   opacity: 1;
 }
 
-.carousel-caption {
+.main-caption-carousel {
+  width: 200px;
   position: absolute;
-  right: 15%;
-  bottom: 50px;
-  left: 15%;
+  right: 28%;
+  /* bottom: 50px; */
+  left: 80%;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -11153,6 +11154,10 @@ a.text-dark:focus {
   border-radius: 10px;
 }
 
+#hero {
+  margin-top: 30px;
+}
+
 /* #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.6);
@@ -11346,7 +11351,30 @@ a.text-dark:focus {
 }
 /* responsive css pratik */
 @media only screen and (max-width: 768px) {
-  .logo {
+  .main-caption-carousel {
+    width: 200px;
+    position: absolute;
+    left: 20%;
+    top: 48%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+  }
+
+  .carousel-caption {
+    position: absolute;
+    bottom: 50px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+  }
+
+  s .logo {
     width: 160px;
   }
   .navbar-collapse {
@@ -11377,20 +11405,7 @@ a.text-dark:focus {
   }
 }
 
-#overlay {
-  position: fixed; /* Sit on top of the page content */
-  display: none; /* Hidden by default */
-  width: 100%; /* Full width (cover the whole page) */
-  height: 100%; /* Full height (cover the whole page) */
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
-  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
-  cursor: pointer; /* Add a pointer on hover */
-}
-
+/* 
 .carousel-item:after {
   content: "";
   display: block;
@@ -11400,7 +11415,7 @@ a.text-dark:focus {
   left: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.5);
-}
+} */
 
 .carousel-item {
   max-height: 100vh;
@@ -11411,7 +11426,7 @@ a.text-dark:focus {
 /* Pratik css responsive */
 @media (max-width: 768px) {
   #hero {
-    margin-top: 80px;
+    margin-top: 120px;
   }
   .res-btn {
     padding: 0.5rem 0.5rem !important;
