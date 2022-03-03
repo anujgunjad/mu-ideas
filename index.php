@@ -8,9 +8,7 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/draft.jpg" alt="First slide">
         <div class="carousel-caption" style="width: 100%;">
-          <!-- <h1 class="display-3 font-weight-bold text-white">Startup Incubator </h1>
-          <p class="text-white mb-4">of the University of Mumbai</p> -->
-          <a href="about.php" class="btn btn-primary res-btn py-3 px-5 ">Know More</a>
+          <a href="ourEvent.php" class="btn btn-primary res-btn py-3 px-5 w-40">Know More</a>
         </div>
       </div>
        <div class="carousel-item">
@@ -18,7 +16,7 @@
         <div class="carousel-caption" >
         <h1 class="display-3 font-weight-bold text-white">Startup Incubator </h1>
           <p class="text-white mb-4">of the University of Mumbai</p>
-          <a href="about.php" class="btn btn-primary res-btn py-3 px-5 ">Know More</a>
+          <a href="about.php" class="btn btn-primary res-btn py-4 px-5 ">Know More</a>
         </div>
       </div>
 

@@ -469,7 +469,7 @@ h6,
   }
 }
 
-.carousel-caption p{
+.carousel-caption p {
   font-size: 1.2rem;
 }
 .display-2 {
@@ -1193,32 +1193,29 @@ pre code {
   }
 }
 
-
-@media (max-width:500px){
-  .display-3{
+@media (max-width: 500px) {
+  .display-3 {
     font-size: 1rem;
   }
-  .carousel-caption p{
+  .carousel-caption p {
     font-size: 0.8rem;
-    margin-bottom: 15px!important;
+    margin-bottom: 15px !important;
   }
-  .carousel-caption{
-    bottom: 20px!important;
+  .carousel-caption {
+    bottom: 20px !important;
   }
 }
 
-@media (max-width:768px){
-    .display-3{
+@media (max-width: 768px) {
+  .display-3 {
     font-size: 1.5rem;
-  }  
-  .carousel-caption p{
+  }
+  .carousel-caption p {
     font-size: 1rem;
   }
 }
 
 @media (min-width: 768px) {
-
-
   .col-md {
     flex-basis: 0;
     flex-grow: 1;
@@ -11130,7 +11127,7 @@ a.text-dark:focus {
 /* navbar css */
 
 .fixed-top {
-  background-color: rgba(0, 0, 0, 0,);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .fixed-top .navbar-nav .nav-link {
@@ -11344,42 +11341,41 @@ a.text-dark:focus {
   margin-bottom: 0;
   color: #777777;
 }
-.logo{
+.logo {
   width: 250px;
 }
 /* responsive css pratik */
 @media only screen and (max-width: 768px) {
-  .logo{
+  .logo {
     width: 160px;
   }
   .navbar-collapse {
-    background-color: #fff!important;
-    opacity: 0.8!important;
-    text-align: right!important;
+    background-color: #fff !important;
+    opacity: 0.8 !important;
+    text-align: right !important;
   }
-  .navbar-toggler{
-    margin:0 auto;
+  .navbar-toggler {
+    margin: 0 auto;
     /* background-color: #fff!important; */
-    padding:5px!important;
+    padding: 5px !important;
   }
-  .fixed-top .navbar-nav .nav-link{
-    color:rgba(0, 0, 0, 0.5)!important;
-  } 
+  .fixed-top .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.5) !important;
+  }
 }
 @media only screen and (min-width: 768px) {
-  .navbar-toggler{
-    margin:auto 0!important;
-    background-color: transparent!important;
-    padding:5px!important;
+  .navbar-toggler {
+    margin: auto 0 !important;
+    background-color: transparent !important;
+    padding: 5px !important;
   }
 }
 
-@media (max-width:500px){
-  .navbar-toggler{
+@media (max-width: 500px) {
+  .navbar-toggler {
     margin-right: 10px;
   }
 }
-
 
 #overlay {
   position: fixed; /* Sit on top of the page content */
@@ -11390,60 +11386,62 @@ a.text-dark:focus {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
   z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
   cursor: pointer; /* Add a pointer on hover */
 }
 
 .carousel-item:after {
-  content:"";
-  display:block;
-  position:absolute;
-  top:0;
-  bottom:0;
-  left:0;
-  right:0;
-  background:rgba(0,0,0,0.5);
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
 }
 
-.carousel-item{
-  max-height:100vh;
+.carousel-item {
+  max-height: 100vh;
 }
-.startup-hero{
+.startup-hero {
   height: 85vh;
 }
 /* Pratik css responsive */
-@media (max-width:768px){
-  .res-btn{
-    padding: 0.5rem 0.5rem!important;
+@media (max-width: 768px) {
+  #hero {
+    margin-top: 80px;
+  }
+  .res-btn {
+    padding: 0.5rem 0.5rem !important;
     font-size: 12px;
   }
-  .carousel-caption p{
+  .carousel-caption p {
     font-size: 16px !important;
   }
   .display-3 {
-    font-size: 14px!important;
+    font-size: 14px !important;
   }
-  .btn_res{
-    font-size: 12px!important;
-    padding: 0.5rem 0.5rem!important;
-    margin:0 auto !important;
+  .btn_res {
+    font-size: 12px !important;
+    padding: 0.5rem 0.5rem !important;
+    margin: 0 auto !important;
   }
-  .btn-community{
-    font-size: 14px!important;
-    margin-bottom:15px !important;
+  .btn-community {
+    font-size: 14px !important;
+    margin-bottom: 15px !important;
     /* padding: 0.5rem 0.5rem!important; */
     /* margin:1rem auto !important; */
   }
-  .btn-submit{
-    font-size: 14px!important;
-    padding: 0.5rem 0.5rem!important;
-    
+  .btn-submit {
+    font-size: 14px !important;
+    padding: 0.5rem 0.5rem !important;
   }
-  .back-to-top{
-    padding: 0.8rem!important;
+  .back-to-top {
+    padding: 0.8rem !important;
   }
-  .startup-hero{
+  .startup-hero {
     height: 45vh;
   }
 }
