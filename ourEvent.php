@@ -32,7 +32,8 @@
             <div class="col-lg-7">
                 <h1 class="mb-4" style="font-size:25px;">Innovation Commercialization <br/>Cohort 2022 (ICC 2022)</h1>
                 <p style="text-align:justify;">MU Ideas ICC 2022 is a 12-month Incubation Program where innovators get technical and business mentoring from industry and academic experts to commercialize their innovation by forming their own startup company.</p>
-                <a href="https://forms.gle/dS8o7NNY4MxsTfvx5" class="btn btn-primary px-4">Apply Now</a>
+                <p><b>Registration Open till 20th march 2022</b></p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4vB5HXCAJIhx4oWgS7gxNBGms9zAWPkK7KHzQjOR_VxLEfA/viewform" class="btn btn-primary px-4">Apply for MU Ideas ICC 2022</a>
               </div>
         </div>
     </div>
@@ -65,8 +66,7 @@
 <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-parent=".faq-list">
                 <p>
-                To have a startup club at your institute, the concerned person at the institute should apply via
-MU Ideas website.
+                Faculty, Students, Individual or team of innovators. This program is open to all innovators who have innovation which can be turned into a startup.
                 </p>
               </div>
             </li>

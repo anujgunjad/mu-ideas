@@ -9,7 +9,7 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/draft.jpg" alt="First slide">
         <div class="main-caption-carousel carousel-caption">
-          <a href="ourEvent.php" class="btn btn-primary res-btn py-3 px-5 w-40 ">Know More</a>
+          <a href="ourEvent.php" class="btn btn-primary res-btn py-3 px-5 w-40 ">Apply Now</a>
         </div>
       </div>
        <div class="carousel-item">
